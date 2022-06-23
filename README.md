@@ -1,4 +1,4 @@
-# Digital Innovation One
+# 🦅 Digital Innovation One 🦅
 
 ## Este código está sendo Desenvolvido em aula, no Bootcamp do Satander. Chamado **_"Santander Bootcamp Mobile Developer"_**.  
 
@@ -8,13 +8,9 @@
 
 - CONHECIMENTOS ADQUIRIDOS ATÉ O MOMENTO: 
 
-    * # IMPLEMENTAÇÃO DE CLASSE PRIVADA E PÚBLICA
-
+    * IMPLEMENTAÇÃO DE CLASSE PRIVADA E PÚBLICA
     
+    * CLASSES, CONSTRUTORES, MÉTODOS E PROPRIEDADES. 
 
-    * # CLASSES, CONSTRUTORES, MÉTODOS E PROPRIEDADES. 
-    
-    
-
-    * # DATA CLASSES
+    * DATA CLASSES
 
