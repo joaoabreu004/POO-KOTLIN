@@ -2,8 +2,6 @@
 
 ## Este código está sendo Desenvolvido em aula, no Bootcamp do Satander. Chamado **_"Santander Bootcamp Mobile Developer"_**.  
 
-# 
-
 ### Explicando de forma básica e resumida, neste repositório, estão códigos de **Programação Orientada à Objetos em Kotlin**.  
 <br> 
 
